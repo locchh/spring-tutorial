@@ -6,7 +6,7 @@
 2. [Spring Framework]()
 3. [Spring Boot and Quickstart]()
 4. [Maven Lifecircle, Folder Structure, Workflow,]()
-5. [IoC,DI](https://github.com/locchh/spring-tutorial/blob/main/docs/IoC_DI.md)
+5. [IoC](https://github.com/locchh/spring-tutorial/blob/main/docs/IoC.md), [DI](https://github.com/locchh/spring-tutorial/blob/main/docs/DI.md)
 
 # references
 
