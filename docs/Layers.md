@@ -163,3 +163,6 @@ This layered architecture helps create scalable, maintainable, and flexible Spri
 
 ### references
 
+https://www.baeldung.com/cs/layered-architecture
+
+https://www.baeldung.com/spring-boot-clean-architecture
