@@ -2,11 +2,11 @@
 
 # syllabus
 
-1. Install Java, Maven, IntelliJ,
-2. Spring Framework
-3. Spring Boot and Quickstart
-4. Maven Lifecircle
-
+1. [Install Java, Maven, IntelliJ,]()
+2. [Spring Framework]()
+3. [Spring Boot and Quickstart]()
+4. [Maven Lifecircle]()
+5. [IoC,DI](https://github.com/locchh/spring-tutorial/blob/main/docs/IoC_DI.md)
 
 # references
 
