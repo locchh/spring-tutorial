@@ -160,3 +160,6 @@ This layer contains utility classes and helper methods that are used across diff
 - **Maintainability**: The modular approach makes the application easier to extend, refactor, or maintain over time.
 
 This layered architecture helps create scalable, maintainable, and flexible Spring applications.
+
+### references
+
