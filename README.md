@@ -6,7 +6,7 @@
 2. [Spring Framework]()
 3. [Spring Boot and Quickstart]()
 4. [Maven Lifecircle, Folder Structure, Workflow,]()
-5. [App's Layers](https://github.com/locchh/spring-tutorial/edit/main/docs/Layers.md)
+5. [Layers](https://github.com/locchh/spring-tutorial/edit/main/docs/Layers.md)
 6. [IoC](https://github.com/locchh/spring-tutorial/blob/main/docs/IoC.md), [DI](https://github.com/locchh/spring-tutorial/blob/main/docs/DI.md)
 
 # references
