@@ -1,6 +1,6 @@
 # spring-tutorial
 
-*Java for Application* (After *Java Basic* and *Java Intermediate*)
+*Java for Application* (After [Java Basic](https://dev.java/learn/) and *Java Intermediate*)
 
 # content
 
