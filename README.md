@@ -1,6 +1,6 @@
 # spring-tutorial
 
-# syllabus
+# content
 
 1. [Install Java, Maven, IntelliJ,]()
 2. [Spring Framework]()
