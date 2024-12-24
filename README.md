@@ -22,3 +22,5 @@ https://docs.spring.io/spring-framework/reference/
 https://maven.apache.org/
 
 https://www.baeldung.com/spring-tutorial
+
+https://docs.oracle.com/javase/tutorial/java/
