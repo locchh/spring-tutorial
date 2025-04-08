@@ -24,3 +24,9 @@ https://maven.apache.org/
 https://www.baeldung.com/spring-tutorial
 
 https://docs.oracle.com/javase/tutorial/java/
+
+https://www.coursera.org/specializations/java-fullstack#courses
+
+https://www.coursera.org/specializations/java-development-deep-divep-dive#courses
+
+https://www.coursera.org/specializations/spring-framework
