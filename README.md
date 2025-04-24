@@ -23,7 +23,7 @@ https://maven.apache.org/
 
 https://www.baeldung.com/spring-tutorial
 
-https://docs.oracle.com/javase/tutorial/java/
+https://docs.oracle.com/javase/tutorial/index.html
 
 https://www.coursera.org/specializations/java-fullstack#courses
 
