@@ -69,6 +69,7 @@ Then try:
 ```bash
 ./gradlew installKernel
 ```
+
 ---
 
 ### 🚀 Step 3: Run Jupyter Notebook

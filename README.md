@@ -41,6 +41,11 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [Maven Official Site](https://maven.apache.org/)
 - [Baeldung – Spring Tutorials](https://www.baeldung.com/spring-tutorial)
 - [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+- [Java API Documentation](https://docs.oracle.com/javase/8/docs/api/)
+- [Essential Java Classes](https://docs.oracle.com/javase/tutorial/essential/index.html)
+- [JDK 24 Documentation](https://docs.oracle.com/en/java/javase/24/)
+- [Java Collections Framework](https://docs.oracle.com/javase/tutorial/collections/index.html)
+- [Awesome Java Awesome](https://github.com/akullpp/awesome-java)
 
 ### 📖 Recommended Courses
 
