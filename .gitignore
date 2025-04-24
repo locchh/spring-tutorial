@@ -1,0 +1,41 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+ENV/
+env/
+.venv/
+
+# Distribution / packaging directories
+build/
+dist/
+*.egg-info/
+
+# Pytest and coverage reports
+*.log
+*.coverage
+.coverage.*
+nosetests.xml
+pytest_cache/
+
+# IDE / Editor folders
+.idea/
+.vscode/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# MyPy type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+pylint-report.txt
+pylint-global.rc
+
+# Python specific
+*.bak
+*.swp
