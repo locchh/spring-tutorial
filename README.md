@@ -9,27 +9,27 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 
 ## 📚 Contents
 
-1. **[Environment Setup]()**  
+1. **[Environment Setup](docs/setup.md)**  
    Install Java, Maven, and IntelliJ IDEA
 
-2. **[Introduction to Spring Framework]()**  
+2. **[Introduction to Spring Framework](docs/spring_framework.md)**  
    Overview and core concepts
 
-3. **[Spring Boot Basics]()**  
+3. **[Spring Boot Basics](docs/spring_boot.md)**  
    - What is Spring Boot?  
    - [Quickstart Project](https://github.com/locchh/simple-web)
 
-4. **[Maven Essentials]()**  
+4. **[Maven Essentials](docs/maven.md)**  
    - Maven Lifecycle  
    - Folder Structure  
    - Workflow
 
-5. **[Application Layers](https://github.com/locchh/spring-tutorial/edit/main/docs/Layers.md)**  
+5. **[Application Layers](docs/Layers.md)**  
    Presentation, Service, and Data Access Layers
 
 6. **Core Concepts**  
-   - [Inversion of Control (IoC)](https://github.com/locchh/spring-tutorial/blob/main/docs/IoC.md)  
-   - [Dependency Injection (DI)](https://github.com/locchh/spring-tutorial/blob/main/docs/DI.md)
+   - [Inversion of Control (IoC)](docs/IoC.md)
+   - [Dependency Injection (DI)](docs/DI.md)
 
 ---
 
