@@ -45,6 +45,7 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [Essential Java Classes](https://docs.oracle.com/javase/tutorial/essential/index.html)
 - [JDK 24 Documentation](https://docs.oracle.com/en/java/javase/24/)
 - [Java Collections Framework](https://docs.oracle.com/javase/tutorial/collections/index.html)
+- [Java™ Platform, Standard Edition 8 API Specification](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 - [Awesome Java Awesome](https://github.com/akullpp/awesome-java)
 
 ### 📖 Recommended Courses
