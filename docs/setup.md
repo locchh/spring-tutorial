@@ -32,7 +32,7 @@ Maven is a build automation tool mainly used for Java projects.
 - Download the latest **Apache Maven** from the [official site](https://maven.apache.org/download.cgi).
 - Extract the archive to a desired location.
 - Add Maven’s `bin` directory to your system’s `PATH` environment variable.
-
+- Or install by command: `sudo apt install maven -y`
 Verify the installation:
 
 ```bash
