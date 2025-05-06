@@ -17,7 +17,6 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 
 3. **[Spring Boot Basics](docs/spring_boot.md)**  
    - What is Spring Boot?  
-   - [Quickstart Project](https://github.com/locchh/simple-web)
 
 4. **[Maven Essentials](docs/maven.md)**  
    - Maven Lifecycle  
@@ -50,8 +49,17 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [Apache Tomcat® software](https://tomcat.apache.org/)
 - [MVN repository](https://mvnrepository.com/)
 
-### 📖 Recommended Courses
+## 📖 Recommended Courses
 
 - [Java Full Stack Specialization – Coursera](https://www.coursera.org/specializations/java-fullstack#courses)
 - [Java Development: Deep Dive – Coursera](https://www.coursera.org/specializations/java-development-deep-divep-dive#courses)
 - [Spring Framework Specialization – Coursera](https://www.coursera.org/specializations/spring-framework)
+
+
+## 📁 Sample Projects
+
+- [FortuneCookieApp](https://github.com/locchh/FortuneCookieApp)
+
+- [CatTranslator](https://github.com/locchh/CatTranslator)
+
+- [simple-web](https://github.com/locchh/simple-web)
