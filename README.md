@@ -47,6 +47,8 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [Java Collections Framework](https://docs.oracle.com/javase/tutorial/collections/index.html)
 - [Java™ Platform, Standard Edition 8 API Specification](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
 - [Awesome Java Awesome](https://github.com/akullpp/awesome-java)
+- [Apache Tomcat® software](https://tomcat.apache.org/)
+- [MVN repository](https://mvnrepository.com/)
 
 ### 📖 Recommended Courses
 
