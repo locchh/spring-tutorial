@@ -6,8 +6,6 @@ Maven is a powerful build automation tool primarily used for Java projects. It s
 
 Maven has three main lifecycles: **default**, **clean**, and **site**. The most commonly used one is the **default** lifecycle.
 
----
-
 ### 1. **Default Lifecycle (for building and deploying projects)**
 
 | **Phase**    | **Description**                                                     |
@@ -20,8 +18,6 @@ Maven has three main lifecycles: **default**, **clean**, and **site**. The most 
 | **install**  | Installs the packaged artifact into the local repository.           |
 | **deploy**   | Copies the final package to a remote repository for sharing.        |
 
----
-
 ### 2. **Clean Lifecycle (for cleaning up artifacts)**
 
 | **Phase**      | **Description**                                                  |
@@ -29,8 +25,6 @@ Maven has three main lifecycles: **default**, **clean**, and **site**. The most 
 | **pre-clean**  | Executes actions before the clean phase.                         |
 | **clean**      | Removes any previously generated artifacts, e.g., target folder. |
 | **post-clean** | Executes actions after the clean phase.                          |
-
----
 
 ### 3. **Site Lifecycle (for generating project documentation)**
 
@@ -41,15 +35,11 @@ Maven has three main lifecycles: **default**, **clean**, and **site**. The most 
 | **post-site**   | Executes actions after generating the site documentation.  |
 | **site-deploy** | Deploys the generated site to a web server.                |
 
----
-
 ### **Full Maven Lifecycle Flow** (for the default lifecycle):
 
 ```
 validate → compile → test → package → verify → install → deploy
 ```
-
----
 
 ### 🔄 **Phases Summary (in order)**
 
@@ -62,14 +52,10 @@ validate → compile → test → package → verify → install → deploy
 7. **install**
 8. **deploy**
 
----
-
 ### **When do the clean and site lifecycles run?**
 
 * **Clean Lifecycle**: Runs when you execute `mvn clean`, and it cleans up the `target` directory where Maven stores all compiled and packaged files.
 * **Site Lifecycle**: Runs when you execute `mvn site`, which generates the site documentation (e.g., Javadoc, reports).
-
----
 
 ### 📅 **Typical Maven Command Flow**
 
@@ -88,8 +74,6 @@ validate → compile → test → package → verify → install → deploy
   ```
 
   This cleans previous builds and runs tests.
-
----
 
 ## Maven Folder Structure
 
@@ -112,8 +96,6 @@ my-project/
 - **`src/test/java/`**: Unit and integration tests.
 - **`pom.xml`**: Defines project details, dependencies, plugins, and build instructions.
 
----
-
 ## Standard format of a Java package name
 
 The **standard format of a Java package name** follows specific conventions to ensure uniqueness and readability. Here's the typical structure:
@@ -131,8 +113,6 @@ The **standard format of a Java package name** follows specific conventions to e
 | Start with domain     | Start with your organization’s domain name in reverse (e.g., `com.example`) |
 | Optional submodules   | Add project or module names after the domain                                |
 
----
-
 ### 🧪 **Examples**
 
 | Organization     | Domain         | Package Name                 |
@@ -141,8 +121,6 @@ The **standard format of a Java package name** follows specific conventions to e
 | Oracle           | oracle.com     | `com.oracle.database`        |
 | Your company     | example.org    | `org.example.myapp.utils`    |
 | Personal project | github.com/you | `io.github.yourname.project` |
-
----
 
 ### 🚫 Avoid
 
@@ -210,8 +188,6 @@ This command quickly creates a basic Maven project with:
    ```bash
    mvn deploy
    ```
-
----
 
 # Summary
 
