@@ -133,16 +133,17 @@ The **standard format of a Java package name** follows specific conventions to e
 Typical Maven workflow steps:
 
 1. **Create a Project**  
-   Use the Maven Archetype to generate a project structure:
-   ```bash
-   mvn archetype:generate \
-  -DgroupId=com.example.app \
-  -DartifactId=my-app \
-  -DarchetypeArtifactId=maven-archetype-quickstart \
-  -DinteractiveMode=false \
-  -Dmaven.compiler.source=21 \
-  -Dmaven.compiler.target=21
-   ```
+Use the Maven Archetype to generate a project structure:
+```bash
+mvn archetype:generate \
+-DgroupId=com.example.app \
+-DartifactId=my-app \
+-DarchetypeArtifactId=maven-archetype-quickstart \
+-DinteractiveMode=false \
+-Dmaven.compiler.source=21 \
+-Dmaven.compiler.target=21
+```
+
 This command quickly creates a basic Maven project with:
 
 - Group ID: `com.example.app`
