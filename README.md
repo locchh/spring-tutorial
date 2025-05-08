@@ -64,4 +64,6 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 
 - [CatTranslator](https://github.com/locchh/CatTranslator)
 
+- [my-app](https://github.com/locchh/my-app)
+
 - [simple-web](https://github.com/locchh/simple-web)
