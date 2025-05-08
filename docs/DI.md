@@ -1,3 +1,12 @@
+Dependency injection is the ability of a class to **receive** dependencies from the outside, rather than creating them or looking them up.
+
+For example. If you have a `UserService` that depends on a `UserRepository`, instead of creating the `UserRepository` inside the `UserService`, you can inject it from the outside.
+
+It mainly involves three classes:
+1. **Client Class**: The class that depends on Service class.
+2. **Service Class**: The class that provides the business logic.
+3. **Injector Class**: The class is responsible for injecting service class into client class.
+
 In Spring, **Constructor Injection**, **Setter Injection**, and **Field Injection** are three common methods for **Dependency Injection (DI)**, each with its own way of providing dependencies to a class. Here's a breakdown of each method:
 
 ---

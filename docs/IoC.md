@@ -1,3 +1,12 @@
+# Inversion of Control
+Inversion of Control is a principle in software engineering which transfers the control of objects or portions of a program to a container or framework. We most often use it in the context of object-oriented programming.
+
+In contrast with traditional programming, in which our custom code makes calls to a library, IoC enables a framework to take control of the flow of a program and make calls to our custom code. To enable this, frameworks use abstractions with additional behavior built in. If we want to add our own behavior, we need to extend the classes of the framework or plugin our own classes. [Read More](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
+
+Dependency injection is a pattern we can use to implement IoC, where the control being inverted is setting an object's dependencies.
+
+Connecting objects with other objects, or “injecting” objects into other objects, is done by an assembler rather than by the objects themselves.
+
 In **Spring Boot** (and Spring Framework in general), **Inversion of Control (IoC)** and **Dependency Injection (DI)** are core concepts that simplify the development of loosely coupled, testable, and maintainable applications. Here’s a detailed explanation of both:
 
 ---
