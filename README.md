@@ -66,4 +66,8 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 
 - [my-app](https://github.com/locchh/my-app)
 
+- [funny-cli](https://github.com/locchh/funny-cli)
+
+- [FunnyCompiler](https://github.com/locchh/FunnyCompiler)
+
 - [simple-web](https://github.com/locchh/simple-web)
