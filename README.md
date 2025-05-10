@@ -50,14 +50,20 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [MVNRepository](https://mvnrepository.com/)
 - [MVNCentral](https://central.sonatype.com/)
 - [repo1.maven](https://repo1.maven.org/)
-- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 ## 📖 Recommended Courses
 
 - [Java Full Stack Specialization – Coursera](https://www.coursera.org/specializations/java-fullstack#courses)
 - [Java Development: Deep Dive – Coursera](https://www.coursera.org/specializations/java-development-deep-divep-dive#courses)
 - [Spring Framework Specialization – Coursera](https://www.coursera.org/specializations/spring-framework)
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
+## 🎓 Resources
+
+- [Spring Guides](https://spring.io/guides)
+- [Spring Boot Docs](https://docs.spring.io/spring-boot/)
+- [Baeldung](https://www.baeldung.com/)
+- [Amigoscode](https://www.youtube.com/@amigoscode)
 
 ## 📁 Sample Projects
 
