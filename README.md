@@ -50,6 +50,7 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [MVNRepository](https://mvnrepository.com/)
 - [MVNCentral](https://central.sonatype.com/)
 - [repo1.maven](https://repo1.maven.org/)
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 ## 📖 Recommended Courses
 
@@ -71,3 +72,5 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [FunnyCompiler](https://github.com/locchh/FunnyCompiler)
 
 - [simple-web](https://github.com/locchh/simple-web)
+
+- [demo](https://github.com/locchh/demo)
