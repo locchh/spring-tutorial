@@ -56,6 +56,7 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [Java Full Stack Specialization – Coursera](https://www.coursera.org/specializations/java-fullstack#courses)
 - [Java Development: Deep Dive – Coursera](https://www.coursera.org/specializations/java-development-deep-divep-dive#courses)
 - [Spring Framework Specialization – Coursera](https://www.coursera.org/specializations/spring-framework)
+- [Advanced Java](https://www.coursera.org/learn/advanced-java)
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 ## 🎓 Resources
