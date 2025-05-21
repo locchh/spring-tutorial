@@ -64,7 +64,7 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 
 - [Spring Guides](https://spring.io/guides)
 - [Spring Boot Docs](https://docs.spring.io/spring-boot/)
-- [Baeldung](https://www.baeldung.com/)
+- [Baeldung](https://www.baeldung.com/cs/start-here)
 - [Amigoscode](https://www.youtube.com/@amigoscode)
 
 ## 📁 Sample Projects
