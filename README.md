@@ -34,12 +34,13 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 
 ## 📌 References
 
+- [Learn Java](https://dev.java/learn/)
+- [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 - [Official Spring Framework Site](https://spring.io/)
 - [Spring Initializr – Project Generator](https://start.spring.io/)
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/reference/)
 - [Maven Official Site](https://maven.apache.org/)
 - [Baeldung – Spring Tutorials](https://www.baeldung.com/spring-tutorial)
-- [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
 - [Java API Documentation](https://docs.oracle.com/javase/8/docs/api/)
 - [Essential Java Classes](https://docs.oracle.com/javase/tutorial/essential/index.html)
 - [JDK 24 Documentation](https://docs.oracle.com/en/java/javase/24/)
