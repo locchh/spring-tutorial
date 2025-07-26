@@ -52,6 +52,9 @@ IntelliJ IDEA is a powerful IDE for Java development.
   - Lombok (if needed)
   - Git Integration
 
+**Note**:
+- IntelliJ IDEA is also available as a snap package. If you’re on Ubuntu 16.04 or later, you can install IntelliJ IDEA from the command line. `sudo snap install intellij-idea-ultimate --classic` or `sudo snap install intellij-idea-community --classic`
+- 
 ---
 
 ## 4. Quick Test
