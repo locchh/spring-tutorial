@@ -99,9 +99,6 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 - [Baeldung - Security](https://www.baeldung.com/cs/category/Security)
 - [Baeldung - Probability & Statistics](https://www.baeldung.com/cs/tag/probability-and-statistics)
 
-### Data Structures & Algorithms
-- [Java Data Structures & Algorithms Specialization](https://www.coursera.org/specializations/codio-java-dsa) - Hands-on course for mastering DSA with Java
-
 ### DevOps, MLOps, LLMOps, Explainable AI
 - [DevOps Specialization](https://www.coursera.org/professional-certificates/devops-and-software-engineering) - Learn DevOps
 - [MLOps Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke) - Learn Machine Learning Operations
