@@ -77,13 +77,13 @@ This repository serves as a beginner-friendly guide for learning Spring Framewor
 
 ## 📁 Sample Projects
 
-- [FortuneCookieApp](https://github.com/locchh/FortuneCookieApp)
-- [CatTranslator](https://github.com/locchh/CatTranslator)
+- [demo](https://github.com/locchh/demo)
 - [my-app](https://github.com/locchh/my-app)
 - [funny-cli](https://github.com/locchh/funny-cli)
 - [FunnyCompiler](https://github.com/locchh/FunnyCompiler)
 - [simple-web](https://github.com/locchh/simple-web)
-- [demo](https://github.com/locchh/demo)
+- [FortuneCookieApp](https://github.com/locchh/FortuneCookieApp)
+- [CatTranslator](https://github.com/locchh/CatTranslator)
 
 ---
 
